@@ -1,9 +1,0 @@
-°“√ √È“ß·™∑∫Õ∑·∫∫∑¥ Õ∫«‘‡§√“–ÀÏ≈—°…≥–∫ÿ§≈‘°¿“æ¢Õß∫ÿ§§≈
-PERSONALITY ASSESSMENT CHATBOT FOR PERSONALITY ANALYSIS 
-
-ABSTRACT
-
-     The project Personality assessment chatbot to personality analysis test. The chatbot will have a question form for analysis to process the results. There will be criteria for counting votes from RIASEC model by Hollandís to measure and classify professional interests. Hollandís is a widely used theoretical framework. The type of model describes people and their work environment by considering personality and environment. They are divided into 6 category they are call RIASEC. These include a Realistic (R), Investigative (I), Artistic (A), Social (S), Enterprise (E) and Conventional(C). All 6 types have a hexagon shape or we known as Spherical structure. Itís linked to interests in various careers, based on standard occupational classification (SOC). The questions will be in the form of a Profiler Short Form (IP Short Form). The results can explain the personality characteristics of users and sorted from highest to lowest score.
-     
-Keywords: chatbot,  personality analysis,  RIASEC mode
-
