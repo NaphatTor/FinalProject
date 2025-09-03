@@ -9,8 +9,3 @@
 **ผู้จัดทำโครงงาน:** (โปรดเขียนข้อมูลผู้จัดทำโครงงานตามฟอร์แมตดังแสดงในตัวอย่างด้านล่าง)
 1. นางสาวณภัทร โตรุ่งเรืองยศ 6209650446 naphat.tor@dome.tu.ac.th
 2. นางสาวสิริรักษ์ สุนทรวิภาต 6209650511 sililuk.soo@dome.tu.ac.th
-   
-Manual / Instructions for your projects starts here !
-# Topic 1
-# Topic 2 
-# Topic 3
