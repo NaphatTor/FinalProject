@@ -37,7 +37,7 @@ It showcases the core idea, abstract (both English and Thai), and full project d
 - Full Report PDF
 
 🎬 Demo
-- [Demo Video](demo/clip demo.mp4)
+- [Demo Video](./demo/clip demo.mp4)
 
 ## 📁 Project Structure
 
