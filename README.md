@@ -1,11 +1,55 @@
-**รหัสโครงงาน:** 66-2_08_nri-s2
+# Final Project 🎓 — Find Edu Bot (Botnoi)
 
-**ชื่อโครงงาน (ไทย):** การสร้างแชทบอทแบบทดสอบวิเคราะห์ลักษณะบุคลิกภาพของบุคคล
+This repository contains the final project for CS403, including implementation, demo, and final reports.
+It showcases the core idea, abstract (both English and Thai), and full project documentation.
 
-**Project Title (Eng):** PERSONALITY ASSESSMENT CHATBOT FOR PERSONALITY ANALYSIS  
+## 🚀 Features
 
-**อาจารย์ที่ปรึกษาโครงงาน:** ผศ. ดร. นุชจรินทร์ อินต๊ะหล้า
+- Full project implementation (code & resources)
+- Abstract in Thai
+- Full academic report (PDF)
+- Demo video included
 
-**ผู้จัดทำโครงงาน:** (โปรดเขียนข้อมูลผู้จัดทำโครงงานตามฟอร์แมตดังแสดงในตัวอย่างด้านล่าง)
-1. นางสาวณภัทร โตรุ่งเรืองยศ 6209650446 naphat.tor@dome.tu.ac.th
-2. นางสาวสิริรักษ์ สุนทรวิภาต 6209650511 sililuk.soo@dome.tu.ac.th
+## 🛠️ Built With
+
+- Python / Java / Node.js (adjust based on actual implementation)
+- Java
+- Node.js
+- Supporting libraries & frameworks as required
+- Javascript
+
+## 🏃‍♂️ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone [repo-url]
+   ```
+
+2. Follow the instructions in:
+   ```bash
+   Instructions-for-Students.md
+   ```
+
+📑 Reports
+
+- [Abstract (EN)](./final_reports/67-1_CS403_66-2_08_nri-s2_abstract_en.txt)  
+- [Abstract (TH)](./final_reports/67-1_CS403_66-2_08_nri-s2_abstract_th.txt)  
+- Full Report PDF
+
+🎬 Demo
+- [Demo Video](demo/clip demo.mp4)
+
+## 📁 Project Structure
+
+```
+FinalProject-main/
+├── Instructions-for-Students.md   # Project instructions / guidelines
+├── README.md                      # Documentation
+├── your-project-file1              # Main project file (implementation)
+├── demo/
+│   └── clip demo.mp4               # Project demo video
+└── final_reports/
+    ├── 67-1_CS403_66-2_08_nri-s2_abstract_en.txt   # Abstract (English)
+    ├── 67-1_CS403_66-2_08_nri-s2_abstract_th.txt   # Abstract (Thai)
+    └── CS403_Report_66-2_08_nri-s2.pdf             # Full final report
+```
