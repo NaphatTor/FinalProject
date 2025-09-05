@@ -22,7 +22,7 @@ It showcases the core idea, abstract (both English and Thai), and full project d
 
 1. Clone the repository:
    ```bash
-   git clone [repo-url]
+   git clone https://github.com/NaphatTor/FinalProject.git
    ```
 
 2. Follow the instructions in:
