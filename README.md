@@ -36,9 +36,6 @@ It showcases the core idea, abstract (both English and Thai), and full project d
 - [Abstract (TH)](./final_reports/67-1_CS403_66-2_08_nri-s2_abstract_th.txt)  
 - Full Report PDF
 
-🎬 Demo
-- [Demo Video](./demo/clip demo.mp4)
-
 ## 📁 Project Structure
 
 ```
